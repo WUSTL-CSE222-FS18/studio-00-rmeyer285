@@ -21,7 +21,6 @@ For each item that has multiple ingredients, create a sub list of a few (2-5) of
 
 ***Q2. Create your list here:***
 
-To do so:
 1. Oyster Poboy
   * Oysters
   * Mayo
@@ -66,9 +65,31 @@ This class is about IoT.  [Postscapes](https://www.postscapes.com/internet-of-th
 
 ***Q5.  Based on your reviews, create a table of the top four distinguishing features of IoT applications. One column of the table should have a brief name for the feature (1-4 words) and the second column should have an explanation:***
 
+
+Feature Name | Explanation
+------------ | -------------
+Efficiency | These all kinda go hand in hand. IoT can allow devices to communicate, and use information to make decisions and changes that create a more efficient system.
+Automation | Using IoT, many processes can run on their own
+Convenience | This automation makes things very convenient.
+Information/Monitor | Consistently in IoT, I see the collection of information and using it to be very important.
+
+
+
 Search for some additional IoT examples at other sites and find two examples that you find interesting.
 
 ***Q6.  For each example: 1) provide a link to it, 2) provide a brief summary of it, and 3) explain how it corresponds to distinguishing features you identified above and/or or how you may want to revise your list of distinguishing features.  Use lists/sublists to format your answer to this question (A numbered list of 2 items, each of which as 3 sub-items):***
+
+1. Connected cars https://www.analyticsvidhya.com/blog/2016/08/10-youtube-videos-explaining-the-real-world-applications-of-internet-of-things-iot/
+  * They focus on comfort and convenience of the driver. i.e. temp or starting the car
+  * Traffic could be more efficient
+  * Automate the driving
+
+1. Fitbit One https://www.businessinsider.com/internet-of-things-devices-applications-examples-2016-8
+  * I think health wearables are very cool. Collecting health data could revolutionize the efficiency of healthcare
+  * conveniently know when you need to exercise
+  * monitor your health info
+
+
 
 ## Part 3: Comparing with Peers
 
@@ -76,4 +97,8 @@ Compare your previous work with other people in the class and try to come to a c
 
 ***Q7. Meet someone new.  Find a class member who you don't already know and introduce yourself.  Compare your work conclusions to the above IoT questions. Again, using a list indicate: 1) Who you worked with, and 2) Any discrepancies or interesting observations that arise from comparing your work:***
 
+didn't have time for this.
+
 ***Q8. Meet someone else new.  Find another class member who you don't already know and introduce your self.  Again compare your work as before:***
+
+didn't have time for this.
